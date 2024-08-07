@@ -1,4 +1,4 @@
-# Purwadhika Final Project Repository
+# Event-Management Repository
 
 This project uses React.js with NextJS for the frontend, Express.js for the backend, and TurboRepo for monorepo management, facilitating rapid development of a scalable web application with streamlined collaboration and efficient server-client interactions.
 
@@ -74,8 +74,3 @@ Example : `npm run seqeulize --workspace=api -- --db:migrate`
 4. **Nested Folder Structure:**
    - Create a logical and organized folder structure based on the project's architecture.
    - For larger projects, consider organizing files by features/modules (Feature-Based Structure) or layer-based (Layered Structure).
-
-test-Nico
-test-farah
-c1
-c2
